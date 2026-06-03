@@ -16,17 +16,17 @@
   /*
    * Shadow Protocol variables
    */
-  --background-image: url("https://i.pinimg.com/1200x/de/3c/d6/de3cd6a3919202c84bbec1262d9da43a.jpg");
+  --background-image: url("background");
   --background-blur: 0px;
   
   /* PROFILE - CONFIGURABLE PARAMETERS */
-  --profile-background-image: url("https://i.pinimg.com/1200x/a3/14/85/a31485757e8d2eed3a75159cc99a9870.jpg");
+  --profile-background-image: url("background");
   --profile-background-blur: 3px;
   --profile-background-opacity: 0.9;
   --profile-overlay-darkness: 0.6;
   
   /* MINI PROFILE - OWN BACKGROUND */
-  --mini-profile-background-image: url("https://i.pinimg.com/736x/f1/64/48/f16448f06a9d27a53c1eeb788b55d40f.jpg");
+  --mini-profile-background-image: url("background");
   --mini-profile-blur: 8px;
   --mini-profile-opacity: 0.3;
   
