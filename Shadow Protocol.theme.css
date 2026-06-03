@@ -217,8 +217,3 @@ span[class*="username"],
 .wrapper_cc5dd2:active {
   transform: scale(0.95) !important;
 }
-/* Lower the "NEW UNREAD" ones down */
-[class*="unreadBottom_"] {
-  transform: translateY(185px) !important;
-}
-
