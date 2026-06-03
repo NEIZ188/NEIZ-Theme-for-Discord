@@ -58,7 +58,6 @@
 
 /* NEON NICKNAMES BY NEIZ */
 
-/* Все ники вообще */
 span[class*="username"],
 .username,
 [class*="header"] span:not(.timestamp) {
@@ -93,7 +92,6 @@ span[class*="username"],
   background: rgba(0, 0, 0, 0.5) !important;
 }
 
-/*  */
 .chat_f75fb0:hover .membersWrap_c8ffbb {
   right: 0 !important;
 }
